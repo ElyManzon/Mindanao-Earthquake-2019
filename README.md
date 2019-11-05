@@ -1,4 +1,4 @@
 3W visualisation of the PRC response to Mindanao Earthquake in the Philippines
-available at https://philippineredcross.github.io/Marawi_Crisis_3W/
+available at https://elymanzon.github.io/Test-EQ-Min/
 ==============
 Created: Elaine Manzon
